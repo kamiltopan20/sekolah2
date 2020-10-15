@@ -1,0 +1,13 @@
+Untuk user admin
+
+username : admin
+password : admin
+
+untuk user gudang
+username : gudang
+password : gudang
+
+alhadi.strong@gmail.com
+
+untuk database di mysql hanya tinggal mengimport dengan nama sekolah dengan cara
+buka localhost/phpmyadmin -> new-> lalu masukan nama sekolah-> kemudian import database
